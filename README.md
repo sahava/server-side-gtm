@@ -10,3 +10,9 @@ Each environment folder contains a `README.md` file, where the documentation rel
 
 ## Contributing
 Fork the repository, make your updates, and then submit a Pull Request for merging to the main branch. Follow the examples set by other documentation.
+
+## Changelog
+
+| Date | Revision |
+|-|-|
+| 2nd June 2021 | Added link to Simo Ahava's `aws-elastic-beanstalk` guide. |
